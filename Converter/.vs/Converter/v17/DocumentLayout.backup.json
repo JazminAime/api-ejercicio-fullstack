@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\Converter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D456C2E3-749B-4277-983E-BC116F30D9FE}|Converter.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\netcore-apis\\converter\\controllers\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D456C2E3-749B-4277-983E-BC116F30D9FE}|Converter.csproj|solutionrelative:controllers\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D456C2E3-749B-4277-983E-BC116F30D9FE}|Converter.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\netcore-apis\\converter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D456C2E3-749B-4277-983E-BC116F30D9FE}|Converter.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D456C2E3-749B-4277-983E-BC116F30D9FE}|Converter.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\netcore-apis\\converter\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D456C2E3-749B-4277-983E-BC116F30D9FE}|Converter.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\Converter\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\Converter\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T15:51:24.055Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\Converter\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\Converter\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:45:35.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Converter.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\Converter\\Controllers\\Converter.cs",
+              "RelativeDocumentMoniker": "Controllers\\Converter.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\Converter\\Controllers\\Converter.cs",
+              "RelativeToolTip": "Controllers\\Converter.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABcAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:34:57.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

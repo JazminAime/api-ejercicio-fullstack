@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\DolarApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\netcore-apis\\dolarapi\\controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|solutionrelative:controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\netcore-apis\\dolarapi\\dolarapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|solutionrelative:dolarapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\netcore-apis\\dolarapi\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|solutionrelative:currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\netcore-apis\\dolarapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\DolarApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\DolarApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T15:55:02.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\DolarApi\\Currency.cs",
+              "RelativeDocumentMoniker": "Currency.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\DolarApi\\Currency.cs",
+              "RelativeToolTip": "Currency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:19:23.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DolarApi.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\DolarApi\\DolarApi.cs",
+              "RelativeDocumentMoniker": "DolarApi.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\DolarApi\\DolarApi.cs",
+              "RelativeToolTip": "DolarApi.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:08:08.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuoteController.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\DolarApi\\Controllers\\QuoteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuoteController.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\DolarApi\\Controllers\\QuoteController.cs",
+              "RelativeToolTip": "Controllers\\QuoteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:54:32.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
