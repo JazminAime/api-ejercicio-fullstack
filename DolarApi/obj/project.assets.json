@@ -3311,11 +3311,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\DolarApi\\DolarApi.csproj",
+      "projectUniqueName": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\DolarApi.csproj",
       "projectName": "DolarApi",
-      "projectPath": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\DolarApi\\DolarApi.csproj",
+      "projectPath": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\DolarApi.csproj",
       "packagesPath": "C:\\Users\\jazmi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\DolarApi\\obj\\",
+      "outputPath": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

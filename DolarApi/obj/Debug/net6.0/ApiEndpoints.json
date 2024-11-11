@@ -1,5 +1,85 @@
 [
   {
+    "ContainingType": "DolarApi.Controllers.Basejemplo",
+    "Method": "InterfazAnimal",
+    "RelativePath": "api/Basejemplo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DolarApi.Controllers.HerenciaController",
+    "Method": "ObtenerAnimales",
+    "RelativePath": "api/Herencia",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DolarApi.Controllers.IAnimal2",
+    "Method": "InterfazAnimal",
+    "RelativePath": "api/IAnimal2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DolarApi.Controllers.Interfaz",
+    "Method": "EjemploInterfaz",
+    "RelativePath": "api/Interfaz",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "DolarApi.Controllers.QuoteController",
     "Method": "GetQuote",
     "RelativePath": "api/Quote",

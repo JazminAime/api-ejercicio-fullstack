@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DolarApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e35efed3481447ec31c3797e8ef7f103e3e9eb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("DolarApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DolarApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

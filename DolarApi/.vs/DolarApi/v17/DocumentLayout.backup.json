@@ -1,21 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\DolarApi\\",
+  "WorkspaceRootPath": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\netcore-apis\\dolarapi\\controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\netcore-apis\\dolarapi\\controllers\\herenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|solutionrelative:controllers\\herenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\netcore-apis\\dolarapi\\ejemplodeherencia\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|solutionrelative:ejemplodeherencia\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\netcore-apis\\dolarapi\\ejemplodeherencia\\jirafa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|solutionrelative:ejemplodeherencia\\jirafa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\netcore-apis\\dolarapi\\ejemplodeherencia\\delfin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|solutionrelative:ejemplodeherencia\\delfin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\netcore-apis\\dolarapi\\ejercicioanimalinterfaz\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|solutionrelative:ejercicioanimalinterfaz\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\netcore-apis\\dolarapi\\ejemplointerfaz\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|solutionrelative:ejemplointerfaz\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\netcore-apis\\dolarapi\\ejemplointerfaz\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|solutionrelative:ejemplointerfaz\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\netcore-apis\\dolarapi\\ejemplointerfaz\\ivehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|solutionrelative:ejemplointerfaz\\ivehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\netcore-apis\\dolarapi\\controllers\\interfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|solutionrelative:controllers\\interfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\netcore-apis\\dolarapi\\controllers\\ianimal2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|solutionrelative:controllers\\ianimal2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\netcore-apis\\dolarapi\\controllers\\basejemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|solutionrelative:controllers\\basejemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\netcore-apis\\dolarapi\\ejercicioanimalinterfaz\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|solutionrelative:ejercicioanimalinterfaz\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\netcore-apis\\dolarapi\\ejercicioanimalinterfaz\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|solutionrelative:ejercicioanimalinterfaz\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\netcore-apis\\dolarapi\\ejercicioanimalinterfaz\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|solutionrelative:ejercicioanimalinterfaz\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\netcore-apis\\dolarapi\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|solutionrelative:persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\netcore-apis\\dolarapi\\controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|solutionrelative:controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\netcore-apis\\dolarapi\\dolarapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\netcore-apis\\dolarapi\\dolarapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|solutionrelative:dolarapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\netcore-apis\\dolarapi\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\netcore-apis\\dolarapi\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|solutionrelative:currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\netcore-apis\\dolarapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|c:\\users\\jazmi\\onedrive\\escritorio\\fullstack-gsc-utn\\backend\\netcore-apis\\dolarapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8A56D7E3-F4AA-4BEE-A862-C3FA61FA1B79}|DolarApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -26,59 +86,246 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\DolarApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\DolarApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-05T15:55:02.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Currency.cs",
-              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\DolarApi\\Currency.cs",
-              "RelativeDocumentMoniker": "Currency.cs",
-              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\DolarApi\\Currency.cs",
-              "RelativeToolTip": "Currency.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Interfaz.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\Controllers\\Interfaz.cs",
+              "RelativeDocumentMoniker": "Controllers\\Interfaz.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\Controllers\\Interfaz.cs",
+              "RelativeToolTip": "Controllers\\Interfaz.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T15:19:23.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DolarApi.cs",
-              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\DolarApi\\DolarApi.cs",
-              "RelativeDocumentMoniker": "DolarApi.cs",
-              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\DolarApi\\DolarApi.cs",
-              "RelativeToolTip": "DolarApi.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAB2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T15:08:08.585Z",
+              "WhenOpened": "2024-11-11T19:41:46.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HerenciaController.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\Controllers\\HerenciaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HerenciaController.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\Controllers\\HerenciaController.cs",
+              "RelativeToolTip": "Controllers\\HerenciaController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:44:58.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\EjemploInterfaz\\IVehiculo.cs",
+              "RelativeDocumentMoniker": "EjemploInterfaz\\IVehiculo.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\EjemploInterfaz\\IVehiculo.cs",
+              "RelativeToolTip": "EjemploInterfaz\\IVehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:35:35.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\EjemploInterfaz\\Auto.cs",
+              "RelativeDocumentMoniker": "EjemploInterfaz\\Auto.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\EjemploInterfaz\\Auto.cs",
+              "RelativeToolTip": "EjemploInterfaz\\Auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:38:03.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\EjemploInterfaz\\Moto.cs",
+              "RelativeDocumentMoniker": "EjemploInterfaz\\Moto.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\EjemploInterfaz\\Moto.cs",
+              "RelativeToolTip": "EjemploInterfaz\\Moto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:37:49.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\EjercicioAnimalInterfaz\\Base.cs",
+              "RelativeDocumentMoniker": "EjercicioAnimalInterfaz\\Base.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\EjercicioAnimalInterfaz\\Base.cs",
+              "RelativeToolTip": "EjercicioAnimalInterfaz\\Base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:03:00.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\EjemploDeHerencia\\Animal.cs",
+              "RelativeDocumentMoniker": "EjemploDeHerencia\\Animal.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\EjemploDeHerencia\\Animal.cs",
+              "RelativeToolTip": "EjemploDeHerencia\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:07:14.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delfin.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\EjemploDeHerencia\\Delfin.cs",
+              "RelativeDocumentMoniker": "EjemploDeHerencia\\Delfin.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\EjemploDeHerencia\\Delfin.cs",
+              "RelativeToolTip": "EjemploDeHerencia\\Delfin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:07:23.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jirafa.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\EjemploDeHerencia\\Jirafa.cs",
+              "RelativeDocumentMoniker": "EjemploDeHerencia\\Jirafa.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\EjemploDeHerencia\\Jirafa.cs",
+              "RelativeToolTip": "EjemploDeHerencia\\Jirafa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:07:35.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAnimal2.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\Controllers\\IAnimal2.cs",
+              "RelativeDocumentMoniker": "Controllers\\IAnimal2.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\Controllers\\IAnimal2.cs",
+              "RelativeToolTip": "Controllers\\IAnimal2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:49:36.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Basejemplo.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\Controllers\\Basejemplo.cs",
+              "RelativeDocumentMoniker": "Controllers\\Basejemplo.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\Controllers\\Basejemplo.cs",
+              "RelativeToolTip": "Controllers\\Basejemplo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:04:40.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Gato.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\EjercicioAnimalInterfaz\\Gato.cs",
+              "RelativeDocumentMoniker": "EjercicioAnimalInterfaz\\Gato.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\EjercicioAnimalInterfaz\\Gato.cs",
+              "RelativeToolTip": "EjercicioAnimalInterfaz\\Gato.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:49:12.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Perro.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\EjercicioAnimalInterfaz\\Perro.cs",
+              "RelativeDocumentMoniker": "EjercicioAnimalInterfaz\\Perro.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\EjercicioAnimalInterfaz\\Perro.cs",
+              "RelativeToolTip": "EjercicioAnimalInterfaz\\Perro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:49:01.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\EjercicioAnimalInterfaz\\IAnimal.cs",
+              "RelativeDocumentMoniker": "EjercicioAnimalInterfaz\\IAnimal.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\EjercicioAnimalInterfaz\\IAnimal.cs",
+              "RelativeToolTip": "EjercicioAnimalInterfaz\\IAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:48:51.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\Persona.cs",
+              "RelativeDocumentMoniker": "Persona.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\Persona.cs",
+              "RelativeToolTip": "Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:35:47.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T15:55:02.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\Currency.cs",
+              "RelativeDocumentMoniker": "Currency.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\Currency.cs",
+              "RelativeToolTip": "Currency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:19:23.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DolarApi.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\DolarApi.cs",
+              "RelativeDocumentMoniker": "DolarApi.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\DolarApi.cs",
+              "RelativeToolTip": "DolarApi.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:08:08.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "QuoteController.cs",
-              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\DolarApi\\Controllers\\QuoteController.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\Controllers\\QuoteController.cs",
               "RelativeDocumentMoniker": "Controllers\\QuoteController.cs",
-              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\netCore-Apis\\DolarApi\\Controllers\\QuoteController.cs",
+              "ToolTip": "C:\\Users\\jazmi\\OneDrive\\Escritorio\\FullStack-GSC-UTN\\BACKEND\\netCore-Apis\\DolarApi\\Controllers\\QuoteController.cs",
               "RelativeToolTip": "Controllers\\QuoteController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T14:54:32.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T14:54:32.827Z"
             }
           ]
         }
